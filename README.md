@@ -1,1 +1,5 @@
-# DATA551_Project_G11_SUN_YAO_ZHAO
+# Mercedes-Benz Sales Insights Dashboard (2020–2025)
+
+## Description of the App
+
+## Sketch
