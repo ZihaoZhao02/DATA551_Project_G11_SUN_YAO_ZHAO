@@ -6,7 +6,7 @@ We are a team of data science students. We aim to explore how vehicle types and 
 In this project. we aim to develop an interactive dashboard that enable users to explore automotive sales data. The dashboard helps users identify which vehicles perform best in the market and determine which aspects consumers prioritize when selecting vehicles (e.g. Color, Turbo).It also track shifts in demand for electric and hybrid vehicles to help automakers decide whether to increase R&D and production budgets for these powertrains. By analyzing dashboard data, users and dealers can make more informed strategic market decisions.
 
 ## 2. Description of the Data
-This dataset covers Mercedes-Benz vehicle sales from 2020 to 2025. Created for educational and analytical purposes, it accurately reflects typical characteristics of the automotive market, including electrification, price evolution, and performance variations across different vehicle models. While not official Mercedes-Benz sales records, the dataset strives for high consistency with real automotive sales data in both scale and variable design.
+This dataset covers Mercedes-Benz vehicle sales from 2020 to 2025. It accurately reflects typical characteristics of the automotive market, including electrification, price evolution, and performance variations across different vehicle models. While not official Mercedes-Benz sales records, the dataset strives for high consistency with real automotive sales data in both scale and variable design.
 
 ### Dataset Size and Structure
 
