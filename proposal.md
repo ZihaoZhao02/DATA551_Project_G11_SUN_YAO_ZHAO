@@ -36,3 +36,14 @@ The dataset captures several important structural patterns in the automotive mar
 - Stable consumer preferences for certain colors and vehicle segments  
 
 ## 3. Research Questions
+We are going to focus on three distinct analytical directions that explore different aspects of vehicle sales performance.
+
+**RQ1: How have sales patterns shifted across fuel types over time?**  
+We want to examine the growth of different powertrain categories (petrol, diesel, hybrid, electric) between 2020 and 2025. By analyzing annual sales distributions, we aim to understand how electrification trends are reflected in market demand.
+
+**RQ2: How are performance characteristics associated with sales outcomes?**  
+We aim to investigate whether there are differences in sales patterns for vehicles with different engine performance attributes (treating horsepower as a continuous variable and turbocharging as a binary variable). We will compare the sales distribution of vehicles across different horsepower ranges and (turbocharged and non-turbocharged vehicles), to assess whether the sales patterns for high-horsepower vehicles differ.
+
+**RQ3: How do exterior color preferences vary across vehicle models and over time?**  
+
+We want to explore whether car body color is correlated with sales volume, and how color popularity changes between 2020 and 2025. By comparing the sales distribution of different colors and analyzing how these patterns vary by car model and year, we want to understand how aesthetic preferences influence sales results.
