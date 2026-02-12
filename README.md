@@ -2,7 +2,7 @@
 
 
 ## Target Users 
-Regional dealership managers and everyone, who need to understand changing market demand and evolving consumer preferences.
+Regional dealership managers and everyone who need to understand changing market demand and evolving consumer preferences.
 
 
 ## Description of the App
