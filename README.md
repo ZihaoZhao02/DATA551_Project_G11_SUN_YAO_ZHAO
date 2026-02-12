@@ -27,3 +27,5 @@ A dealership manager wants to decide:
 
 
 ## Sketch
+<img width="996" height="671" alt="sketch" src="https://github.com/user-attachments/assets/591c0d11-7228-48a8-a945-235d1947eb72" />
+
