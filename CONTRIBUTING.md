@@ -1,7 +1,5 @@
 # Contributing Guidelines
 
-# Contributing
-
 Thanks for your interest in contributing!
 
 ## Code of Conduct
