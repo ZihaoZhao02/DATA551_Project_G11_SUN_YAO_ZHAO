@@ -29,4 +29,7 @@ A dealership manager wants to decide:
 ## Sketch
 ![Sketch](https://github.com/user-attachments/assets/4a40489e-bf11-46c9-93ed-4cfa1b16e3c0)
 
+<img width="996" height="671" alt="sketch" src="https://github.com/user-attachments/assets/dca2e667-9302-4e97-a8fc-946783779a64" />
+
+
 
